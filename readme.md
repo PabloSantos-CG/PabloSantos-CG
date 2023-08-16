@@ -10,5 +10,5 @@ My name is Pablo. I am an IT enthusiast and learner. Currently, I'm studying sys
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)
-<br>
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true)
