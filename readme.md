@@ -16,6 +16,6 @@ Access my linkedin <br><br>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&theme=blue-green" width="250"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&theme=tokyonight&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&theme=blue-green" width="250"> ![PabloSantos-CG's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&theme=tokyonight&show_icons=true)
 
 <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
