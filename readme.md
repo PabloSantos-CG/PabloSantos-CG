@@ -1,6 +1,8 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 <ul>
   <li>My name is Pablo. I am an IT enthusiast and learner. Currently, I'm studying systems analysis and development and I'm also dedicated to the study of Fullstack Web Development.</li>
+  <li>I was born in 1998 and I live in Lauro de Freitas, Bahia</li>
+  <li>I'm looking for opportunities</li>
 </ul>
 <br><br>
 
