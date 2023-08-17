@@ -16,6 +16,12 @@ Access my linkedin <br><br>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&theme=blue-green" width="250"> ![PabloSantos-CG's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&theme=tokyonight&show_icons=true)
-
-<img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
+<div align="center">
+  <a href="https://github.com/PabloSantos-CG">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
+<div align="center"><br>
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
+</div>
