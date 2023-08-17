@@ -1,6 +1,7 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
-
-My name is Pablo. I am an IT enthusiast and learner. Currently, I'm studying systems analysis and development and I'm also dedicated to the study of Fullstack Web Development.
+<ul>
+  <li>My name is Pablo. I am an IT enthusiast and learner. Currently, I'm studying systems analysis and development and I'm also dedicated to the study of Fullstack Web Development.</li>
+</ul>
 <br><br>
 
 Access my linkedin <br><br>
