@@ -18,9 +18,15 @@ Access my linkedin <br><br>
 
 <br><br>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PabloSantos-CG?tab=repositories) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=compact&langs_count=7&theme=dark"/>
-
+<div align ="center" style="display: flex;">
+  <a href="https://github.com/PabloSantos-CG?tab=repositories">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 <div align="center"><br>
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
 </div>
+
+<!--
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PabloSantos-CG?tab=repositories)<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=compact&langs_count=7&theme=dark"/> -->
