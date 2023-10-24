@@ -1,12 +1,12 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 <ul>
-  <li>My name is Pablo. I am an IT enthusiast and learner. Currently, I'm studying systems analysis and development and I'm also dedicated to the study of Fullstack Web Development.</li>
-  <li>I was born in 1998 and I live in Lauro de Freitas, Bahia</li>
-  <li>I'm looking for opportunities</li>
+  <li>Meu nome é Pablo. Sou um entusiasta e aprendiz de TI. Atualmente estou cursando análise e desenvolvimento de sistemas e também me dedico ao estudo de Desenvolvimento Web Fullstack</li>
+  <li>Nasci em 1998 e moro em Lauro de Freitas, Bahia</li>
+  <li>Estou procurando oportunidades.</li>
 </ul>
 <br><br>
 
-Access my linkedin <br><br>
+Acesse meu Linkedin <br><br>
 <a href="https://www.linkedin.com/in/pablosantos-cg/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
@@ -14,7 +14,7 @@ Access my linkedin <br><br>
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,figma&theme=dark)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=git,mysql&theme=dark)](https://skillicons.dev)<br>
 
