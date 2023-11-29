@@ -10,13 +10,19 @@ Acesse meu Linkedin <br><br>
 <a href="https://www.linkedin.com/in/pablosantos-cg/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
-<br>
+<br><br>
 
-# Skills
+## Linguagens
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)<br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,figma&theme=dark)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=git,mysql&theme=dark)](https://skillicons.dev)<br>
+## Pré-processadores e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
+
+## Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)<br>
+
+## Outros
+[![My Skills](https://skillicons.dev/icons?i=git,figma&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
@@ -29,6 +35,3 @@ Acesse meu Linkedin <br><br>
 <div align="center"><br>
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
 </div>
-
-<!--
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PabloSantos-CG?tab=repositories)<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=compact&langs_count=7&theme=dark"/> -->
