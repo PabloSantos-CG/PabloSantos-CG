@@ -18,6 +18,9 @@ Acesse meu Linkedin <br><br>
 ## Pré-processadores e Frameworks
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
 
+## Back-End
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)<br>
+
 ## Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)<br>
 
