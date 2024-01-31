@@ -22,7 +22,7 @@ Acesse meu Linkedin <br><br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)<br>
 
 ## Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark)](https://skillicons.dev)<br>
 
 ## Outros
 [![My Skills](https://skillicons.dev/icons?i=git,figma&theme=dark)](https://skillicons.dev)<br>
