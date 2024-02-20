@@ -19,13 +19,13 @@ Acesse meu Linkedin <br><br>
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
 
 ## Back-End
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)](https://skillicons.dev)<br>
 
 ## Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark)](https://skillicons.dev)<br>
 
 ## Outros
-[![My Skills](https://skillicons.dev/icons?i=git,sequelize,figma&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,jest,figma&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
