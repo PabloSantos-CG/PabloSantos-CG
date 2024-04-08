@@ -25,7 +25,7 @@ Acesse meu Linkedin <br><br>
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark)](https://skillicons.dev)<br>
 
 ## Outros
-[![My Skills](https://skillicons.dev/icons?i=git,jest,figma&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,jest,figma,docker&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
