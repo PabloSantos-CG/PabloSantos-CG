@@ -27,6 +27,10 @@ Acesse meu Linkedin <br><br>
 ## Outros
 [![My Skills](https://skillicons.dev/icons?i=git,jest,figma,docker&theme=dark)](https://skillicons.dev)<br>
 
+
+## Estudando
+[![My Skills](https://skillicons.dev/icons?i=java,python&theme=dark)](https://skillicons.dev)<br>
+
 <br><br>
 
 <div align ="center" style="display: flex;">
