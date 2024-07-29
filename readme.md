@@ -2,11 +2,11 @@
 <ul>
   <li>Meu nome é Pablo. Sou um entusiasta e aprendiz de TI. Atualmente estou cursando análise e desenvolvimento de sistemas e também me dedico ao estudo de Desenvolvimento Web Fullstack</li>
   <li>Nasci em 1998 e moro em Lauro de Freitas, Bahia</li>
-  <li>Estou procurando oportunidades.</li>
+ 
 </ul>
 <br><br>
 
-Acesse meu Linkedin <br><br>
+Acesse meu Linkedin, vamos conversar sobre suas ideias de projeto <br><br>
 <a href="https://www.linkedin.com/in/pablosantos-cg/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
