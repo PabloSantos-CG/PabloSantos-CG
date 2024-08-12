@@ -29,7 +29,7 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias de projeto <br><br>
 
 
 ## Estudando
-[![My Skills](https://skillicons.dev/icons?i=java,python&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
