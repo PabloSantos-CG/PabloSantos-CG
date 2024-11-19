@@ -1,6 +1,6 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 <ul>
-  <li>Meu nome é Pablo. Sou um entusiasta e aprendiz de TI. Atualmente estou cursando análise e desenvolvimento de sistemas e também me dedico ao estudo de Desenvolvimento Web Fullstack</li>
+  <li>Meu nome é Pablo. Sou um entusiasta e aprendiz de TI. Atualmente estou cursando análise e desenvolvimento de sistemas possuo conhecimento em Desenvolvimento Web Fullstack e atualmente estou me dedicando a aprender desenvolvimento Mobile com Kotlin e Java.</li>
   <li>Nasci em 1998 e moro em Lauro de Freitas, Bahia</li>
  
 </ul>
