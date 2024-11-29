@@ -12,23 +12,25 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias de projeto <br><br>
 </a>
 <br><br>
 
-## Linguagens
+# Conhecimento em:
+
+### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)<br>
 
-## Pré-processadores e Frameworks
+### Pré-processadores e Frameworks
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
 
-## Back-End
+### Back-End
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)](https://skillicons.dev)<br>
 
-## Banco de Dados
+### Banco de Dados
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark)](https://skillicons.dev)<br>
 
-## Outros
+### Outros
 [![My Skills](https://skillicons.dev/icons?i=git,jest,figma,docker&theme=dark)](https://skillicons.dev)<br>
 
 
-## Estudando
+# Estudando
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
