@@ -1,12 +1,14 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+# Opa! Seja Bem-Vindo 😎
+
 <ul>
-  <li>Meu nome é Pablo. Sou um entusiasta e aprendiz de TI. Atualmente estou cursando análise e desenvolvimento de sistemas possuo conhecimento em Desenvolvimento Web Fullstack e atualmente estou me dedicando a aprender desenvolvimento Mobile com Kotlin e Java.</li>
-  <li>Nasci em 1998 e moro em Lauro de Freitas, Bahia</li>
- 
+  <li>Me chamo Pablo.</li>
+  <li>Nascido em 1998, residente em Lauro de Freitas, Bahia.</li>
+  <li>Um entusiasta de tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com experiência em Desenvolvimento Web Fullstack.</li>
+  <li>Tenho explorado automações com Python e desenvolvimento mobile utilizando Kotlin.</li>
 </ul>
 <br><br>
 
-Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos. <br><br>
+Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
 <a href="https://www.linkedin.com/in/pablosantos-cg/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
