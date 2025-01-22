@@ -17,7 +17,7 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
 
 <br><br>
 
-# Conhecimento em:
+# Conhecimentos em:
 
 ### Linguagens:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)<br>
