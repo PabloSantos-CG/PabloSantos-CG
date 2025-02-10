@@ -20,7 +20,7 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
 # Conhecimentos em:
 
 ### Linguagens:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark)](https://skillicons.dev)<br>
 
 ### Pré-processadores e Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
@@ -36,7 +36,7 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
 
 
 # Estudando:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,python&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,django&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
