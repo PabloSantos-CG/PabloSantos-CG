@@ -29,10 +29,10 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
 [![Back-End](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)](https://skillicons.dev)<br>
 
 ### Banco de Dados:
-[![Banco de Dados](https://skillicons.dev/icons?i=postgresql,mongodb,sqlite&theme=dark)](https://skillicons.dev)<br>
+[![Banco de Dados](https://skillicons.dev/icons?i=postgresql,sqlite,mongodb&theme=dark)](https://skillicons.dev)<br>
 
 ### Outros:
-[![Outros](https://skillicons.dev/icons?i=git,jest,figma,docker&theme=dark)](https://skillicons.dev)<br>
+[![Outros](https://skillicons.dev/icons?i=git,linux,docker,jest,figma&theme=dark)](https://skillicons.dev)<br>
 
 
 # Estudando:
