@@ -13,30 +13,30 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
-[![Acesse meu site](https://img.shields.io/badge/Acesse%20meu%20site-000000?style=for-the-badge&logoColor=white)](https://portfolio-jet-ten-16.vercel.app/)
+[![Conheça Meu Site](https://img.shields.io/badge/Conheça%20meu%20site-000000?style=for-the-badge&logoColor=white)](https://portfolio-jet-ten-16.vercel.app/)
 
 <br><br>
 
 # Conhecimentos em:
 
 ### Linguagens:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark)](https://skillicons.dev)<br>
+[![Linguagens](https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark)](https://skillicons.dev)<br>
 
 ### Pré-processadores e Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
+[![Pré-processadores e Frameworks](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
 
 ### Back-End:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)](https://skillicons.dev)<br>
+[![Back-End](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)](https://skillicons.dev)<br>
 
 ### Banco de Dados:
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,sqlite&theme=dark)](https://skillicons.dev)<br>
+[![Banco de Dados](https://skillicons.dev/icons?i=postgresql,mongodb,sqlite&theme=dark)](https://skillicons.dev)<br>
 
 ### Outros:
-[![My Skills](https://skillicons.dev/icons?i=git,jest,figma,docker&theme=dark)](https://skillicons.dev)<br>
+[![Outros](https://skillicons.dev/icons?i=git,jest,figma,docker&theme=dark)](https://skillicons.dev)<br>
 
 
 # Estudando:
-[![My Skills](https://skillicons.dev/icons?i=kotlin,django&theme=dark)](https://skillicons.dev)<br>
+[![Estudando](https://skillicons.dev/icons?i=django,kotlin&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
