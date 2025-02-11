@@ -29,7 +29,7 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)](https://skillicons.dev)<br>
 
 ### Banco de Dados:
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,sqlite&theme=dark)](https://skillicons.dev)<br>
 
 ### Outros:
 [![My Skills](https://skillicons.dev/icons?i=git,jest,figma,docker&theme=dark)](https://skillicons.dev)<br>
