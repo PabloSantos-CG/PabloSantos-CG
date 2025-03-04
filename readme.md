@@ -49,3 +49,5 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
 <div align="center"><br>
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
 </div>
+
+[![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=PabloSG)](https://github.com/anuraghazra/github-readme-stats)
