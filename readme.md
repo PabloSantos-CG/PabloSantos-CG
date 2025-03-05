@@ -36,7 +36,7 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
 
 
 # Estudando:
-[![Estudando](https://skillicons.dev/icons?i=django,kotlin&theme=dark)](https://skillicons.dev)<br>
+[![Estudando](https://skillicons.dev/icons?i=django,selenium&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
