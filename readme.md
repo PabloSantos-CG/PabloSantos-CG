@@ -3,12 +3,12 @@
 <ul>
   <li>Me chamo Pablo.</li>
   <li>Nascido em 1998, residente em Lauro de Freitas, Bahia.</li>
-  <li>Um entusiasta de tecnologia. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, com experiência em Desenvolvimento Web Fullstack.</li>
+  <li>Um eterno aprendiz, proativo, focado e uma pessoa determinada.</li>
   <li>Estou me aprofundando em back-end com python e automações.</li>
 </ul>
 <br><br>
 
-Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos.<br>
+Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos:<br>
 <a href="https://www.linkedin.com/in/pablosantos-cg/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
