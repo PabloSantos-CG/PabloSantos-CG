@@ -42,8 +42,8 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos:<br>
 
 <div align ="center" style="display: flex;">
   <a href="https://github.com/PabloSantos-CG?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=compact&langs_count=7&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=compact&langs_count=7&theme=algolia"/> -->
 
   [![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=018b9561-1afd-4386-9f7e-0d74680fda76&langs_count=10&theme=algolia&)](https://github.com/anuraghazra/github-readme-stats)
   
