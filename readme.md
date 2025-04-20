@@ -22,8 +22,8 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos:<br>
 ### Linguagens:
 [![Linguagens](https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark)](https://skillicons.dev)<br>
 
-### Pré-processadores e Frameworks:
-[![Pré-processadores e Frameworks](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
+### Front-End:
+[![Pré-processadores e Frameworks](https://skillicons.dev/icons?i=tailwind,react,next&theme=dark)](https://skillicons.dev)<br>
 
 ### Back-End:
 [![Back-End](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)](https://skillicons.dev)<br>
@@ -36,7 +36,7 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos:<br>
 
 
 # Estudando:
-[![Estudando](https://skillicons.dev/icons?i=django&theme=dark)](https://skillicons.dev)<br>
+[![Estudando](https://skillicons.dev/icons?i=php,laravel&theme=dark)](https://skillicons.dev)<br>
 
 <br><br>
 
