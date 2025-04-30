@@ -4,7 +4,6 @@
   <li>Me chamo Pablo.</li>
   <li>Nascido em 1998, residente em Lauro de Freitas, Bahia.</li>
   <li>Um eterno aprendiz, proativo, focado e uma pessoa determinada.</li>
-  <li>Estou me aprofundando em back-end com python e automações.</li>
 </ul>
 <br><br>
 
