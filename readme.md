@@ -31,7 +31,7 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos:<br>
 [![Banco de Dados](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&theme=dark)](https://skillicons.dev)<br>
 
 ### Outros:
-[![Outros](https://skillicons.dev/icons?i=git,linux,docker,jest,figma&theme=dark)](https://skillicons.dev)<br>
+[![Outros](https://skillicons.dev/icons?i=git,linux,docker,jest&theme=dark)](https://skillicons.dev)<br>
 
 
 # Estudando:
