@@ -37,8 +37,8 @@ Acesse meu Linkedin, vamos conversar sobre suas ideias para projetos:<br>
 # Estudando:
 [![Estudando](https://skillicons.dev/icons?i=php,laravel&theme=dark)](https://skillicons.dev)<br>
 
-<br><br>
 
+<hr />
 <div align ="center" style="display: flex;">
   <a href="https://github.com/PabloSantos-CG?tab=repositories">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloSantos-CG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
