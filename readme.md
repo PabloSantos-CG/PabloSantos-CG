@@ -1,11 +1,13 @@
 # 👋 Opa! Seja bem-vindo
+<ul>
+  <li>Me chamo Pablo</li>
+  <li>Nascido em 1998 e residente em Lauro de Freitas, Bahia</li>
+  <li>Um eterno aprendiz, proativo, focado e uma pessoa determinada.</li>
+</ul>
 
-Me chamo **Pablo**, nascido em 1998 e residente em **Lauro de Freitas, Bahia**.  
-Um eterno aprendiz, proativo, focado e uma pessoa determinada.
+<br />
+<br />
 
----
-
-### 🤝 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablosantos-cg/)
 [![Conheça Meu Site](https://img.shields.io/badge/Conheça%20meu%20site-000000?style=for-the-badge&logoColor=white)](https://portfolio-jet-ten-16.vercel.app/)
@@ -14,7 +16,7 @@ Um eterno aprendiz, proativo, focado e uma pessoa determinada.
 
 ## 💻 Conhecimentos Técnicos
 
-### 🧠 Linguagens  
+### Linguagens:  
 ![Linguagens](https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark)
 
 ### 🎨 Front-End  
