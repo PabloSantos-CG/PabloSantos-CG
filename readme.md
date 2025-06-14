@@ -41,14 +41,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b9561-1afd-4386-9f7e-0d74680fda76.svg)](https://wakatime.com/@018b9561-1afd-4386-9f7e-0d74680fda76)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=donut&hide=json,other,css,html,yaml,ejs&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=donut&hide=json,other,css,html,yaml,ejs&theme=dark)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=018b9561-1afd-4386-9f7e-0d74680fda76&langs_count=5&hide=json,other,css,html,yaml,ejs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) 
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=018b9561-1afd-4386-9f7e-0d74680fda76&langs_count=5&hide=json,other,css,html,yaml,ejs&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=donut&hide=json,other,css,html,yaml,ejs&theme=algolia)
-
-[![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=018b9561-1afd-4386-9f7e-0d74680fda76&langs_count=5&hide=json,other,css,html,yaml,ejs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
--->
