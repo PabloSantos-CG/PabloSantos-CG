@@ -17,7 +17,7 @@
 ## 💻 Conhecimentos Técnicos
 
 ### Linguagens:  
-![Linguagens](https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark)
+![Linguagens](https://skillicons.dev/icons?i=php,python,ts,js,html,css&theme=dark)
 
 ### 🎨 Front-End  
 ![Front-End](https://skillicons.dev/icons?i=tailwind,react,next&theme=dark)
@@ -34,10 +34,19 @@
 ---
 
 ## 📚 Atualmente Estudando  
-![Estudando](https://skillicons.dev/icons?i=php,laravel&theme=dark)
+![Estudando](https://skillicons.dev/icons?i=laravel,vue&theme=dark)
 
 ---
+## 📊 Métricas
 
-## ⏱️ Tempo de Codificação por Linguagem
+[![wakatime](https://wakatime.com/badge/user/018b9561-1afd-4386-9f7e-0d74680fda76.svg)](https://wakatime.com/@018b9561-1afd-4386-9f7e-0d74680fda76)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=donut&hide=json,other,css,html,yaml,ejs&theme=aura_dark)  [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=018b9561-1afd-4386-9f7e-0d74680fda76&langs_count=5&hide=json,other,css,html,yaml,ejs&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloSantos-CG&layout=donut&hide=json,other,css,html,yaml,ejs&theme=algolia)
 
 [![Estatísticas do WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=018b9561-1afd-4386-9f7e-0d74680fda76&langs_count=5&hide=json,other,css,html,yaml,ejs&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+-->
