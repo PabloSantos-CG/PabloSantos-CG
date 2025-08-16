@@ -34,7 +34,7 @@
 ---
 
 ## 📚 Atualmente Estudando  
-![Estudando](https://skillicons.dev/icons?i=laravel,vue&theme=dark)
+![Estudando](https://skillicons.dev/icons?i=laravel,redis,vue&theme=dark)
 
 ---
 ## 📊 Métricas
