@@ -23,7 +23,7 @@
 ![Front-End](https://skillicons.dev/icons?i=tailwind,react,next&theme=dark)
 
 ### ⚙️ Back-End  
-![Back-End](https://skillicons.dev/icons?i=nodejs,express,sequelize&theme=dark)
+![Back-End](https://skillicons.dev/icons?i=laravel,nodejs,express,sequelize&theme=dark)
 
 ### 🗄️ Bancos de Dados  
 ![Banco de Dados](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb&theme=dark)
@@ -34,7 +34,7 @@
 ---
 
 ## 📚 Atualmente Estudando  
-![Estudando](https://skillicons.dev/icons?i=laravel,redis,vue&theme=dark)
+![Estudando](https://skillicons.dev/icons?i=redis,vue&theme=dark)
 
 ---
 ## 📊 Métricas
