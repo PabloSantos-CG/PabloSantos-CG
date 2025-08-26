@@ -29,7 +29,7 @@
 ![Banco de Dados](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis&theme=dark)
 
 ### 🔧 Outros  
-![Outros](https://skillicons.dev/icons?i=git,linux,docker,jest&theme=dark)
+![Outros](https://skillicons.dev/icons?i=git,docker,jest&theme=dark)
 
 ---
 
