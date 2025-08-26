@@ -26,7 +26,7 @@
 ![Back-End](https://skillicons.dev/icons?i=laravel,nodejs,express,sequelize&theme=dark)
 
 ### 🗄️ Bancos de Dados  
-![Banco de Dados](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,redis&theme=dark)
+![Banco de Dados](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=dark)
 
 ### 🔧 Outros  
 ![Outros](https://skillicons.dev/icons?i=git,docker,jest&theme=dark)
