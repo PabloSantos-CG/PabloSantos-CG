@@ -34,7 +34,7 @@
 ---
 
 ## 📚 Atualmente Estudando  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=n8n,vue&titles=true&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=n8n,vue&titles=true)
 
 ---
 ## 📊 Métricas
